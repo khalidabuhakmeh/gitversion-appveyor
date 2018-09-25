@@ -10,7 +10,7 @@ Task("Default")
         UpdateAssemblyInfo = false,
         OutputType = GitVersionOutput.BuildServer,
     });
-
+  
     Information("*** Hot Fix! Echo One ***");
 });
 
