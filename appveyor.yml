@@ -1,2 +1,2 @@
 build:
-  - cmd: PowerShell -Version 2.0 .\build.ps1
+ - ps: .\build.ps1
