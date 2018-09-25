@@ -11,7 +11,7 @@ Task("Default")
         OutputType = GitVersionOutput.BuildServer,
     });
 
-    Information("*** Echo One ***");
+    Information("*** Hot Fix! Echo One ***");
 });
 
 RunTarget(target);
