@@ -1,2 +1,2 @@
 build:
-  ps: ./build.ps1
+  ps: .\build.ps1
